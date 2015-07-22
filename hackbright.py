@@ -75,6 +75,11 @@ def assign_grade(github, title, grade):
     print "Successfully assigned grade of %s for %s in %s" % (
         grade, github, title)
 
+def list_project_and_grade(title, grade):
+    """returns a list of tuples containing project title and grade for student"""
+
+    QUERY 
+
 
 def handle_input():
     """Main loop.
